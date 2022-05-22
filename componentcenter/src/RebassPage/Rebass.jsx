@@ -1,7 +1,7 @@
 export default function Rebass() {
   return (
     <>
-      <p>Rebass</p>
+      <p>RebassPage</p>
     </>
   );
 }
