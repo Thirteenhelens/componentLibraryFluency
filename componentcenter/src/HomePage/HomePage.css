@@ -1,11 +1,4 @@
 .head {
+  margin: 50px;
   text-align: center;
-}
-
-.nav {
-  height: 40px;
-  display: grid;
-  width: stretch;
-  text-align: center;
-  border: 5px solid black;
 }
