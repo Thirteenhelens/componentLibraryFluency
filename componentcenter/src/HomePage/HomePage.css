@@ -9,27 +9,3 @@
   text-align: center;
   border: 5px solid black;
 }
-
-.mui {
-  grid-row: 1 /5;
-  padding-right: 25px;
-  border-right: 5px solid #000000;
-}
-
-.reactB {
-  grid-row: 1 /5;
-  padding-right: 25px;
-  border-right: 5px solid #000000;
-}
-
-.rebass {
-  grid-row: 1 /5;
-  padding-right: 25px;
-  border-right: 5px solid #000000;
-}
-
-.antD {
-  grid-row: 1 /5;
-  padding-right: 25px;
-  border-right: 0px solid #000000;
-}
